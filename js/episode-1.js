@@ -1,0 +1,1 @@
+alert('Mbolo JS'); // Programme qui consiste a affiché "Mbolo js eb alert"
